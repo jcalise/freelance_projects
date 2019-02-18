@@ -1,0 +1,3 @@
+m.me/VendorName
+{"source": "A UNIQUE SOURCE 1","data": [{"type": "bot_name","value": "bot"}]}
+{"source": "A UNIQUE SOURCE 2","data": [{"type": "bot_name","value": "bot"},{"type": "session_vars","value": {"referral_rebate_offer_id": "OFFER ID GUID"}}]}
