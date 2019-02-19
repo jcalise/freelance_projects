@@ -1,3 +1,13 @@
-m.me/VendorName
-{"source": "A UNIQUE SOURCE 1","data": [{"type": "bot_name","value": "bot"}]}
-{"source": "A UNIQUE SOURCE 2","data": [{"type": "bot_name","value": "bot"},{"type": "session_vars","value": {"referral_rebate_offer_id": "OFFER ID GUID"}}]}
+m.me/JamesonWhiskeyUS
+{"source": "Jameson Email Full", "data": [{"type": "bot_name", "value": "jameson-rebate-bot"}, {"type": "session_vars", "value": {"referral_rebate_offer_id": "b482f5f1-2d1d-4fc6-b9b0-f1a5381c51f3"}}]}
+{"source": "Jameson Email 90", "data": [{"type": "bot_name", "value": "jameson-rebate-bot"}, {"type": "session_vars", "value": {"referral_rebate_offer_id": "4ac8223b-aa22-4d2c-a2e9-3b266679c116"}}]}
+{"source": "Thrillist Full", "data": [{"type": "bot_name", "value": "jameson-rebate-bot"}, {"type": "session_vars", "value": {"referral_rebate_offer_id": "b482f5f1-2d1d-4fc6-b9b0-f1a5381c51f3"}}]}
+{"source": "Thrillist 90", "data": [{"type": "bot_name", "value": "jameson-rebate-bot"}, {"type": "session_vars", "value": {"referral_rebate_offer_id": "4ac8223b-aa22-4d2c-a2e9-3b266679c116"}}]}
+{"source": "Vice Full", "data": [{"type": "bot_name", "value": "jameson-rebate-bot"}, {"type": "session_vars", "value": {"referral_rebate_offer_id": "b482f5f1-2d1d-4fc6-b9b0-f1a5381c51f3"}}]}
+{"source": "Vice 90", "data": [{"type": "bot_name", "value": "jameson-rebate-bot"}, {"type": "session_vars", "value": {"referral_rebate_offer_id": "4ac8223b-aa22-4d2c-a2e9-3b266679c116"}}]}
+{"source": "DoStuff Full", "data": [{"type": "bot_name", "value": "jameson-rebate-bot"}, {"type": "session_vars", "value": {"referral_rebate_offer_id": "b482f5f1-2d1d-4fc6-b9b0-f1a5381c51f3"}}]}
+{"source": "DoStuff 90", "data": [{"type": "bot_name", "value": "jameson-rebate-bot"}, {"type": "session_vars", "value": {"referral_rebate_offer_id": "4ac8223b-aa22-4d2c-a2e9-3b266679c116"}}]}
+{"source": "Paid Search Full", "data": [{"type": "bot_name", "value": "jameson-rebate-bot"}, {"type": "session_vars", "value": {"referral_rebate_offer_id": "b482f5f1-2d1d-4fc6-b9b0-f1a5381c51f3"}}]}
+{"source": "Paid Search 90", "data": [{"type": "bot_name", "value": "jameson-rebate-bot"}, {"type": "session_vars", "value": {"referral_rebate_offer_id": "4ac8223b-aa22-4d2c-a2e9-3b266679c116"}}]}
+{"source": "Paid Social Full", "data": [{"type": "bot_name", "value": "jameson-rebate-bot"}, {"type": "session_vars", "value": {"referral_rebate_offer_id": "b482f5f1-2d1d-4fc6-b9b0-f1a5381c51f3"}}]}
+{"source": "Paid Social 90", "data": [{"type": "bot_name", "value": "jameson-rebate-bot"}, {"type": "session_vars", "value": {"referral_rebate_offer_id": "4ac8223b-aa22-4d2c-a2e9-3b266679c116"}}]}

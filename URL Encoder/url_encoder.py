@@ -12,10 +12,10 @@ with open("jsondata.txt", "r") as url_data:
     url_list = []
 
     for line in url_data:
-        this_line = ast.literal_eval(line)
+        #this_line = ast.literal_eval(line)
         #converts line to useable dictionary item 
 
-        encoded_line = base64.urlsafe_b64encode(bytes(this_line['source'], encoding='utf-8'))
+        encoded_line = base64.urlsafe_b64encode(bytes(line, encoding='utf-8'))
         # encodes the "source" key from the dict item
 
         url_list.append(encode_url + "?ref=" + encoded_line.decode("utf-8"))
